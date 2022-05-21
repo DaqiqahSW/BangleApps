@@ -1,0 +1,15 @@
+{
+  "id": "hbm",
+  "name": "Heart & Person Condition",
+  "icon": "hbm.png",
+  "version": "0.01",
+  "description": "App test heartbeat and evaluate person condition if relaxed or not",
+  "tags": "health",
+  "type": "health",
+  "supports": ["BANGLEJS","BANGLEJS2"],
+  "readme": "README.md",
+  "storage": [
+    {"name":"hbm.app.js","url":"app.js"},
+    {"name":"hbm.img","url":"hbm-icon.js","evaluate":true}
+  ]
+}
