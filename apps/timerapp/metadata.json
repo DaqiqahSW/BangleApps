@@ -1,0 +1,14 @@
+{ "id": "timerapp",
+  "name": "Test Timer",
+  "shortName":"ttimer",
+  "icon": "app.png",
+  "version":"0.01",
+  "description": "This is my timer app",
+  "tags": "tool",
+  "supports" : ["BANGLEJS", "BANGLEJS2"],  
+  "readme": "README.md",
+  "storage": [
+    {"name":"timerapp.app.js","url":"app.js"},
+    {"name":"timerapp.img","url":"app-icon.js","evaluate":true}
+  ]
+}
