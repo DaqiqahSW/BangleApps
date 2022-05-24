@@ -1,6 +1,6 @@
 { "id": "timer",
-  "name": "Timer App",
-  "shortName":"TimerApp",
+  "name": "Counter App",
+  "shortName":"CounterApp",
   "icon": "app.png",
   "version":"0.01",
   "description": "This is a Counter app",
