@@ -1,6 +1,7 @@
 {
   "id": "hbm",
   "name": "Heart & Person Condition",
+  "shortname": "Heart",
   "icon": "hbm.png",
   "version": "0.01",
   "description": "App test heartbeat and evaluate person condition if relaxed or not",
