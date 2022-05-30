@@ -4,10 +4,9 @@
   "icon": "app.png",
   "version":"0.01",
   "description": "This is a Misbaha app",
-  "type": "tool",
-  "tags": "tool",
+  "type": "app",
+  "tags": "app",
   "supports" : ["BANGLEJS"],  
-  "readme": "README.md",
   "storage": [
     {"name":"misbaha.app.js","url":"app.js"},
     {"name":"misbaha.img","url":"app-icon.js","evaluate":true}
